@@ -1,0 +1,41 @@
+.special{
+    font-style: italic;
+    font-size: 44pt;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1{
+    font-family: 'Overpass', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-size: 42pt;
+}
+
+.textblack{
+    color:black;
+}
+
+.bgsection{
+ background-color:#35461D;
+}
+
+.bgblack{
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.bgsection2{
+    background-color:#88b648;
+}
+
+.formBox{
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20%;
+
+}
+
+.btnbg{
+    background-color:#35461D;
+    color: white;
+    padding: 5px;
+}
